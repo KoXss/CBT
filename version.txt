@@ -3,9 +3,9 @@
     "min_version": "0.2.0.0",
     "download_url": "https://github.com/KoXss/CBT/releases/download/v0.2.0.0/CBT_setup_v0.2.0.0.exe",
     "changelog":
-"
-version v0.2.0.0
-Добавлено: Проверка обновлений;
-Изменения: Улучшен интерфейс;
-"
+            "
+                version v0.2.0.0
+                Добавлено: Проверка обновлений;
+                Изменения: Улучшен интерфейс;
+            "
 }
