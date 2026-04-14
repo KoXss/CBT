@@ -1,5 +1,5 @@
 {
-    "version": "0.3.0.1",
+    "version": "0.4.0.1",
     "min_version": "0.3.0.0",
     "download_url": "https://github.com/KoXss/CBT/releases/download/v0.3.0.0/CBT_setup_v0.3.0.0.exe",
     "changelog": "Исправлена проверка обновлений"
